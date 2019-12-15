@@ -7,3 +7,11 @@ Python implementation based on matlab code available in http://www.dsplog.com/20
 N = 10^5
 
 ![10^5](https://user-images.githubusercontent.com/26671424/66720822-0985e700-edd8-11e9-89fb-8977a06b157e.png)
+
+N = 8.10^4
+
+Left - without interleaving codewords
+Right - interleaving codewords
+
+![sampaio](https://user-images.githubusercontent.com/26671424/70857188-a5130100-1ec8-11ea-95ae-f0d9ce1a6912.png)
+
