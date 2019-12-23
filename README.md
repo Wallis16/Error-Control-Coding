@@ -18,3 +18,7 @@ Right - interleaving codewords
 
 ![sampaio](https://user-images.githubusercontent.com/26671424/70857188-a5130100-1ec8-11ea-95ae-f0d9ce1a6912.png)
 
+# GNUradio implementation by float vectors
+
+![image](https://user-images.githubusercontent.com/26671424/71335017-5c3df680-251f-11ea-8591-a12f773743e0.png)
+
