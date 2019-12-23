@@ -23,7 +23,9 @@ N = 10^5
 ### BER ratio between (without interleaving/with interleaving)
 
 uncoded -- [1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1.] 
+
 soft decision -- [0.99914904 0.9699905  1.05453206 1.00445765 1.03533569 1.38686131 0.88235294 0.45454545 0.5 nan nan] 
+
 hard decision -- [0.98597045 0.98971266 1.04815166 0.99338791 1.04435995 1.19171779 1.15246637 0.74285714 0.6 nan nan]
 
 # GNUradio implementation using float vectors
