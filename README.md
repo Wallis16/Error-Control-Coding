@@ -18,7 +18,13 @@ N = 10^5
 
 ### interleaving codewords
 
-![sampaio](https://user-images.githubusercontent.com/26671424/70857188-a5130100-1ec8-11ea-95ae-f0d9ce1a6912.png)
+![image](https://user-images.githubusercontent.com/26671424/71371667-ac08d600-2590-11ea-9ff0-bb1fa9260df5.png)
+
+### BER ratio between (without interleaving/with interleaving)
+
+uncoded -- [1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1.] 
+soft decision -- [0.99914904 0.9699905  1.05453206 1.00445765 1.03533569 1.38686131 0.88235294 0.45454545 0.5 nan nan] 
+hard decision -- [0.98597045 0.98971266 1.04815166 0.99338791 1.04435995 1.19171779 1.15246637 0.74285714 0.6 nan nan]
 
 # GNUradio implementation using float vectors
 
