@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<block>
+  <name>Hamming_decoder_Diogenes_Wallis</name>
+  <key>tutorial_Hamming_decoder_Diogenes_Wallis</key>
+  <category>[tutorial]</category>
+  <import>import tutorial</import>
+  <make>tutorial.Hamming_decoder_Diogenes_Wallis($k)</make>
+  <!-- Make one 'param' node for every Parameter you want settable from the GUI.
+       Sub-nodes:
+       * name
+       * key (makes the value accessible as $keyname, e.g. in the make node)
+       * type -->
+  <param>
+    <name>K</name>
+    <key>k</key>
+    <type>int</type>
+  </param>
+
+  <!-- Make one 'sink' node per input. Sub-nodes:
+       * name (an identifier for the GUI)
+       * type
+       * vlen
+       * optional (set to 1 for optional inputs) -->
+  <sink>
+    <name>in</name>
+    <type>float</type>
+    <vlen>7</vlen>
+  </sink>
+
+  <!-- Make one 'source' node per output. Sub-nodes:
+       * name (an identifier for the GUI)
+       * type
+       * vlen
+       * optional (set to 1 for optional inputs) -->
+  <source>
+    <name>out</name>
+    <type>float</type>
+    <vlen>4</vlen>
+  </source>
+</block>
