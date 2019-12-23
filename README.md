@@ -22,4 +22,4 @@ Right - interleaving codewords
 
 ![image](https://user-images.githubusercontent.com/26671424/71335017-5c3df680-251f-11ea-8591-a12f773743e0.png)
 
-![image](https://user-images.githubusercontent.com/26671424/71335079-b63ebc00-251f-11ea-8f74-1e5ea275ef3c.png)
+![image](https://user-images.githubusercontent.com/26671424/71335189-454bd400-2520-11ea-9977-24f6d28b233d.png)
