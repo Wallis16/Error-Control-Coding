@@ -10,11 +10,13 @@ N = 10^5
 
 # hard_soft_interleaving.py
 
-N = 8.10^4
+N = 10^5
 
-Left - without interleaving codewords
+### without interleaving codewords
 
-Right - interleaving codewords
+![image](https://user-images.githubusercontent.com/26671424/71371574-5f24ff80-2590-11ea-8f03-5608ce02f15f.png)
+
+### interleaving codewords
 
 ![sampaio](https://user-images.githubusercontent.com/26671424/70857188-a5130100-1ec8-11ea-95ae-f0d9ce1a6912.png)
 
